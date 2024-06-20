@@ -79,6 +79,7 @@ class AddTodo extends Component {
           onClick={this.handleSubmit}
           variant="contained"
           color="primary"
+          value="true"
         >
           Add
         </Button>
